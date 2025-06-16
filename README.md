@@ -42,8 +42,8 @@ A proof-of-concept tool for analyzing product visibility on supermarket shelves 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/shelf-visibility-analyzer.git
-   cd shelf-visibility-analyzer
+   git clone https://github.com/eeraanjum13/supermarket_visibility.git
+   cd supermarket_visibility
    ```
 
 2. **Create and activate a virtual environment**
@@ -133,6 +133,3 @@ Store any environment-specific settings in the `.env` file. Make sure to keep yo
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
